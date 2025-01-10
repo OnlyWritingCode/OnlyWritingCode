@@ -30,6 +30,6 @@ I'm **Bayron Patricio PÃ©rez Vera**, a Computer Engineer from Rancagua, Chile ðŸ
 
 ### GitHub Stats:
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=OnlyWrittingCode&show_icons=true&theme=default&count_private=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=OnlyWritingCode&show_icons=true&theme=default&count_private=true)
 
 ---
