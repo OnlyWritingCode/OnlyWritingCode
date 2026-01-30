@@ -28,8 +28,4 @@ I'm **Bayron Patricio PÃ©rez Vera**, a Computer Engineer from Rancagua, Chile ðŸ
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat)
 
 
-### GitHub Stats:
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=OnlyWritingCode&show_icons=true&theme=default&count_private=true)
-
 ---
